@@ -35,8 +35,8 @@ This project analyzes the correlation between Bitcoin (BTC) and Polygon (MATIC) 
 ## Final Performance
 
 * **Initial Portfolio:** \$1000
-* **Final Portfolio Value:** \~\$1478.87
-* **Profit:** \~\$478.87
+* **Final Portfolio Value:** \~\$1178.87
+* **Profit:** \~\$178.87
 
 ---
 
