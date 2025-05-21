@@ -44,15 +44,15 @@ This project analyzes the correlation between Bitcoin (BTC) and Polygon (MATIC) 
 
 ### 1. BTC Price Over Time
 
-![BTC Price](image-1)
+![BTC Price Chart](assets/image-1.png)
 
 ### 2. MATIC Price Over Time
 
-![MATIC Price](image-2)
+![POL Price Chart](assets/image-2.png)
 
 ### 3. Backtest Portfolio Performance
 
-![Portfolio Value](image-3)
+![Portfolio Value Over Time](assets/image-3.png)
 
 ---
 
