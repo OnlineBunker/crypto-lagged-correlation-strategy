@@ -67,7 +67,7 @@ This project analyzes the correlation between Bitcoin (BTC) and Polygon (MATIC) 
 1. Clone this repository:
 
 ```bash
-https://github.com/your-username/crypto-lag-correlation-strategy.git
+https://github.com/OnlineBunker/crypto-lag-correlation-strategy.git
 ```
 
 2. Open the notebook in Jupyter:
